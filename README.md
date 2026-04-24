@@ -1,12 +1,13 @@
-Hi, I'm Jay Patel 👋
+<h1 align="center">Hi, I'm Jay Patel 👋</h1>
 
-
-
-  Finance × Data · Chicago, IL
-
+<p align="center">
+  <b>Finance × Data · Chicago, IL</b><br/>
   Senior Finance Professional | Portfolio Management | Credit Analysis | NMTC
+</p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=7%2B+Years+in+Institutional+Finance;M%26A+%7C+Debt+Syndication+%7C+NMTC;Python+%7C+SQL+%7C+Financial+Modeling;IIT+Stuart+MBA+%7C+MS+Financial+Risk+Mgmt" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -34,16 +35,20 @@ Hi, I'm Jay Patel 👋
 
 ## 📈 GitHub Stats
 
-
-  
-  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaypatel1511&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaypatel1511&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jaypatel1511/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaypatel1511)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thejaypatel1511@gmail.com)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaypatel1511&color=0ea5e9&style=flat" alt="Profile views"/>
+</p>
