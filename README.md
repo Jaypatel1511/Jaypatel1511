@@ -13,7 +13,7 @@
 
 ## 🏦 About Me
 
-- 🔭 7+ years across portfolio management, M&A underwriting, debt syndication & NMTC transactions
+- 🔭 10+ years across portfolio management, M&A underwriting, debt syndication & NMTC transactions
 - 🎓 MBA (Finance) + MS (Financial Risk Management) — IIT Stuart School of Business
 - 📊 I build Python & SQL-powered models to support complex credit and investment decisions
 - 🌆 Based in **Chicago, IL**
