@@ -101,8 +101,7 @@ A portfolio of **open-source Python packages** for community development finance
 [hmda-analyzer](https://pypi.org/project/hmda-analyzer/) ·
 [cra-scraper](https://pypi.org/project/cra-scraper/)
 
-**Job-search tooling**
-[h1b-tracker](https://pypi.org/project/h1b-tracker/)
+
 
 </details>
 
