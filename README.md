@@ -108,11 +108,27 @@ A portfolio of **open-source Python packages** for community development finance
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Portfolio at a Glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaypatel1511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" alt="Jay's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaypatel1511&layout=compact&hide_border=true&langs_count=6&theme=graywhite" alt="Top languages">
+  <img src="https://img.shields.io/badge/PyPI_packages-22-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="22 PyPI packages">
+  <img src="https://img.shields.io/badge/domain-community_development_finance-2E7D32?style=for-the-badge" alt="Domain">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
+</p>
+
+<p align="center">
+  <em>Live versions of the flagship packages (auto-updates from PyPI):</em>
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/nmtc-application-builder/"><img src="https://img.shields.io/pypi/v/nmtc-application-builder?label=nmtc-application-builder&color=3775A9&logo=pypi&logoColor=white" alt="nmtc-application-builder"></a>
+  <a href="https://pypi.org/project/cdfi-benchmark/"><img src="https://img.shields.io/pypi/v/cdfi-benchmark?label=cdfi-benchmark&color=3775A9&logo=pypi&logoColor=white" alt="cdfi-benchmark"></a>
+  <a href="https://pypi.org/project/fair-lending-screener/"><img src="https://img.shields.io/pypi/v/fair-lending-screener?label=fair-lending-screener&color=3775A9&logo=pypi&logoColor=white" alt="fair-lending-screener"></a>
+  <br>
+  <a href="https://pypi.org/project/nmtc-mapper/"><img src="https://img.shields.io/pypi/v/nmtc-mapper?label=nmtc-mapper&color=3775A9&logo=pypi&logoColor=white" alt="nmtc-mapper"></a>
+  <a href="https://pypi.org/project/hmda-analyzer/"><img src="https://img.shields.io/pypi/v/hmda-analyzer?label=hmda-analyzer&color=3775A9&logo=pypi&logoColor=white" alt="hmda-analyzer"></a>
+  <a href="https://pypi.org/project/waterfall-py/"><img src="https://img.shields.io/pypi/v/waterfall-py?label=waterfall-py&color=3775A9&logo=pypi&logoColor=white" alt="waterfall-py"></a>
+  <a href="https://pypi.org/project/cdfi-val/"><img src="https://img.shields.io/pypi/v/cdfi-val?label=cdfi-val&color=3775A9&logo=pypi&logoColor=white" alt="cdfi-val"></a>
 </p>
 
 ---
@@ -131,11 +147,17 @@ I work at the intersection of **capital and community impact**. Open to conversa
 </p>
 
 <!--
-  OPTIONAL EXTRAS (uncomment to enable) — see MAKEOVER_GUIDE.md for details:
+  OPTIONAL EXTRAS — see MAKEOVER_GUIDE.md §6.
 
-  Contribution streak:
-  <img src="https://streak-stats.demolab.com?user=Jaypatel1511&hide_border=true&theme=graywhite" alt="Streak">
+  NOTE: the github-readme-stats and streak-stats cards run on shared public
+  instances that get rate-limited and show up as BROKEN IMAGES (that's why the
+  old stats section wouldn't render). If you want the visual stat/streak cards,
+  self-host them — steps are in the guide. Only enable the lines below after
+  self-hosting, swapping in your own instance URL.
 
-  Profile view counter:
+  Contribution streak (self-host first):
+  <img src="https://YOUR-STREAK-INSTANCE/?user=Jaypatel1511&hide_border=true&theme=graywhite" alt="Streak">
+
+  Profile view counter (komarev is reliable, safe to enable as-is):
   <img src="https://komarev.com/ghpvc/?username=Jaypatel1511&style=flat-square&color=blue" alt="Profile views">
 -->
