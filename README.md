@@ -132,8 +132,6 @@ A portfolio of **open-source Python packages** for community development finance
 
 ---
 
-
-
 ## 🤝 Let's Connect
 
 I work at the intersection of **capital and community impact**. Open to conversations on portfolio management, private credit, real-estate finance, and open-source tooling for mission-driven lenders.
