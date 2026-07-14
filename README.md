@@ -5,7 +5,7 @@
   See MAKEOVER_GUIDE.md for step-by-step deployment + all optional widgets.
 -->
 
-<h1 align="center">Hi, I'm Jay Patel 👋</h1>
+<h1 align="center">Hi, I'm Jay  👋</h1>
 
 <p align="center">
   <b>Finance × Data · Chicago, IL</b><br>
