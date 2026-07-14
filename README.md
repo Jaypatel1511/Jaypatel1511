@@ -23,8 +23,6 @@
 
 ---
 
-
-
 ## 🏦 About Me
 
 I'm a senior finance professional with **7+ years** across portfolio management, M&A underwriting, debt syndication, and New Markets Tax Credit (NMTC) transactions — currently focused on **community development finance** at the intersection of capital markets and mission-driven lending.
@@ -133,6 +131,8 @@ A portfolio of **open-source Python packages** for community development finance
 </p>
 
 ---
+
+
 
 ## 🤝 Let's Connect
 
