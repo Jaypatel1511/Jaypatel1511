@@ -7,6 +7,7 @@
 
 <h1 align="center">Hi, I'm Jay  👋</h1>
 
+
 <p align="center">
   <b>Finance × Data · Chicago, IL</b><br>
   Portfolio Management · Private Credit · NMTC &amp; Structured Finance 
