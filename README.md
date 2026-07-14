@@ -10,6 +10,7 @@
 
 <p align="center">
   <b>Finance × Data · Chicago, IL</b><br>
+  
   Portfolio Management · Private Credit · NMTC &amp; Structured Finance 
 </p>
 
